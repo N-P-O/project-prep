@@ -3,6 +3,7 @@
 ## Daily Plan
 
 - [Tuesday Stand Up/Down](./dailys/day2.md)
+- [Wednesday Stand Up/Down](./dailys/day3.md)
 
 ## Cooperation Plan
 
