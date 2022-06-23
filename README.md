@@ -4,6 +4,7 @@
 
 - [Tuesday Stand Up/Down](./dailys/day2.md)
 - [Wednesday Stand Up/Down](./dailys/day3.md)
+- [Thursday Stand Up/Down](./dailys/day4.md)
 
 ## Cooperation Plan
 
