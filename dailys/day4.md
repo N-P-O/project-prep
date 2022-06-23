@@ -6,15 +6,32 @@
 
 ### To Dos
 
+## Day 4 Morning Parings
+
+**Ben, Matt**:
+
+1. Get gallery of photos from AWS to front end
+    - Colorizer needs works
+1. If **`Step 2`** is successful, deploy backend to heroku and connect to frontend
+    - Timebox **`Step 3`** in *total* for **1 hour**, **before** lunch.
+
+**Bishal, Katrina, Roger**:
+
+1. Deploy Frontend and test if can talk with backend.
+1. Test functionality of front end to backend
 1. Locally reconnect backend to frontend
     - Send B&W image to get colorized successfully
-2. Deploy Frontend and test if can talk with backend.
-3. If **`Step 2`** is successful, deploy backend to heroku and connect to frontend
-    - Timebox **`Step 3`** in *total* for **1 hour**, **before** lunch.
-4. Testing using [Playwright python](https://playwright.dev/python/docs/intro) given by JB.
-5. Finish Up CSS and "About Us" page
-6. Fill out Power Point
-7. Practice Presentation with team
+1. Proposed to dos
+    - Modulize log in to separate page
+    - Upload/Gallery page will be colorized
+
+**Afternoon Todo**:
+
+1. Testing using [Playwright python](https://playwright.dev/python/docs/intro) given by JB.
+1. Finish Up CSS and "About Us" page
+    - About page will be colorized
+1. Fill out Power Point
+1. Practice Presentation with team
     - Practice Presentation with JB
 
 ## What progress did your team make yesterday?
@@ -48,7 +65,7 @@
 
 ### Total Commits
 
-1. Benjamin Carter: 15 Commits
+1. Benjamin Carter: 16 Commits
 2. Matt Rangel: 9 Commits
 3. Katrina Hill: 5 Commits
 4. Bishal Khanal: 4 Commits
@@ -74,8 +91,4 @@
 
 ![day3](https://media.giphy.com/media/XzqEFZ06NSFgXaut2g/giphy.gif)
 
-## Day 4 Morning Parings
 
-**TBD**:
-
-**TBD**:
