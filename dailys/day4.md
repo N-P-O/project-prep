@@ -1,8 +1,21 @@
-# Day 3, Wednesday, June 22, 2022
+# Day 4, Thursday, June 23, 2022
 
 ## Stand up
 
-![Stand Up](../images/day2-colorize.png)
+![Stand Up](https://media.giphy.com/media/5ndb8nMOiy2XwdSot3/giphy.gif)
+
+### To Dos
+
+1. Locally reconnect backend to frontend
+    - Send B&W image to get colorized successfully
+2. Deploy Frontend and test if can talk with backend.
+3. If **`Step 2`** is successful, deploy backend to heroku and connect to frontend
+    - Timebox **`Step 3`** in *total* for **1 hour**, **before** lunch.
+4. Testing using [Playwright python](https://playwright.dev/python/docs/intro) given by JB.
+5. Finish Up CSS and "About Us" page
+6. Fill out Power Point
+7. Practice Presentation with team
+    - Practice Presentation with JB
 
 ## What progress did your team make yesterday?
 
@@ -25,11 +38,13 @@
 
 | Name | Front End Commit | Back End Commit | Hurricane Colorizer |Total Commits |
 |------|:------------------:|:-----------------:|:-----------------:|---------------:|
-| Benjamin Carter | 0      | 14               | 1            |   **15**         |
+| Benjamin Carter | 0      | 15*               | 1            |   **16** *       |
 | Matt Rangel | 8         | 1               | 0               | **9**         |
-| Katrina Hill | 4        | 1               |0               | **5**         |
-| Bishal Khanal | 3        | 1              | 0              | **4**         |
-| Roger Wells | 0      | 3               |0               | **3**         |
+| Katrina Hill | 6        | 1               |0               | **5**         |
+| Bishal Khanal | 5        | 1              | 0              | **4**         |
+| Roger Wells | 1      | 3               |0               | **3**         |
+
+*Do not have visibility to `ben-backend-test`, to see actual commits
 
 ### Total Commits
 
@@ -41,42 +56,26 @@
 
 ### [Front End Commit](https://github.com/North-Pac/hurricane-photo-frontend/graphs/contributors)
 
-- Matt Rangel: 8 Commits 10,872 ++    10,826 --
-- Katrina Hill: 4 Commits 249,986 ++    244,544 --
-- Bishal Khanal: 3 commits    5,265 ++    53 --
-
 ### [Back End Commit](https://github.com/North-Pac/hurricane-photo-backend/graphs/contributors)
 
-- Benjamin Carter: 14 commits    535 ++    270 --
-- Roger Wells: 3 commits    208 ++    146 --
-- Bishal Khanal: 1 commit    1 ++    0 --
-- Katrina Hill: 1 commit    3 ++    21 --
-- Matt Rangel: 1 commit    1 ++    1 --  
+### [ben-backend-test](https://github.com/North-Pac/ben-backend-test)
+
+### [hurricane-colorizer](https://github.com/North-Pac/hurricane-colorizer/graphs/contributors)
 
 ## Identify any blockers
 
 ### Front End Blocker
 
-- None at this time
+- NOTES HERE
 
 ### Back End Blocker
 
-Deploying to backend with DB to get CRUD functionality
-
-### To Do
-
-- URLs that are going to the dockerize
-
-- database user password with psygopg2, give access to the page using adminer.
-
-- curs > how to create the URL is basically the URL that amazon will use to give the image a unique url.
+- NOTES HERE
 
 ![day3](https://media.giphy.com/media/XzqEFZ06NSFgXaut2g/giphy.gif)
 
-## Day 3 Morning Parings
+## Day 4 Morning Parings
 
 **TBD**:
 
 **TBD**:
-
-## Day 3 Todo's
